@@ -4,8 +4,8 @@ an project for wuziqi game
 + finished part:
   + login window
   + ui
-  + computer play chess randomly
+  + computer plays chess randomly
   + game judgement
 + unfinished part:
-  + play with human
+  + plays with human
   + artificial intelligence
